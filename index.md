@@ -31,7 +31,7 @@ This a hybrid workshop run over 1 sessions. The [schedule can be found here](htt
 
 | Session name | Dates | Time  | Venue | Sign up link |
 | --- |--- |--- |--- | --- |
-| Session 1 | 26th January | 10am -1pm | Training Room 4, Old Library Steatham Campus | Regitration is closed |
+| Session 1 | 26th January | 10am -1pm | Training Room 4, Old Library Steatham Campus | Registration is closed |
 
 
 ## Set-up instructions for attendees
