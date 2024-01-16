@@ -1,9 +1,9 @@
 Instructional Material
 ----------------------
 
-The instructional material in this course is copyright © 2023 University of Exeter
-and is made available under the Creative Commons Attribution 4.0 International
-licence (https://creativecommons.org/licenses/by/4.0/). Instructional material
+The instructional material in this course is copyright © 2024 University of Exeter
+and is made available under the [Creative Commons Attribution 4.0 International
+licence](https://creativecommons.org/licenses/by/4.0/). Instructional material
 consists of material that is contained within the _episodes, _rmarkdown and images folders in
 this repository, with the exception of code snippets and example programs found
 in files within these folders. Such code snippets and example programs are
@@ -16,7 +16,7 @@ Software
 Except where otherwise noted, software provided in this repository is made
 available under the MIT licence (https://opensource.org/licenses/MIT).
 
-Copyright © 2023 University of Exeter
+Copyright © 2024 University of Exeter
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,7 +39,7 @@ SOFTWARE.
 The software in this repository is adapted from software that is covered by the
 following copyright and permission notice:
 
-    Copyright © 2023 Software Carpentry
+    Copyright © 2024 Software Carpentry
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
