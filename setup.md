@@ -3,7 +3,13 @@ layout: info_page
 title: Installation instructions
 ---
 
-R and Rstudio will need to be installed prior to the start of the workshop details forhow to do with are included here. Learners are expected to already be familiar with the basics of R, such as how to load a dataset from a local file and manipulate variables. For example you should be comfortable with all the material in our [Intro to R workshop](https://uniexeterrse.github.io/intro-to-r/). 
+# Pre Workshop Instructions
+
+This workshop has a number of prerequisites:
+
+1. R and Rstudio will need to be installed prior to the start of the workshop details for how to do with are included here.
+2. Learners are expected to already be familiar with the basics of R, such as how to load a dataset from a local file and manipulate variables. For example you should be comfortable with all the material in our [Intro to R workshop](https://uniexeterrse.github.io/intro-to-r/).
+3. There are 3 R packages that need to be installed in advance, code for this is included below. 
 
 # Installation
 
@@ -69,6 +75,17 @@ b. Click on the free version **Download** button
 
 <br>
 
+# Install nessescary R packages
 
+There are three packages need for this workshop. The first two (devtools & learnr) are available from CRAN. The third is a package we have developed with the course materials in and is available from GitHub (cfrrRTutorials). 
+
+This code will install these three packages.
+
+```
+install.packages("devtools") 
+install.packages("learnr") 
+library(devtools)
+devtools::install_github("ejh243/cfrr-r-tutorials")
+```
 
 If you encounter any difficulties with installation please contact 
