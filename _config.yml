@@ -1,11 +1,11 @@
 # Basic options
-title: Workshop Name
+title: Regression Analysis with R
 short_name: workshop-name
-developers: [A name]
-description: One sentence description of workshop.
-n_sessions: 3
-prereq: NA
-url: https://uniexeterrse.github.io/repo-name
+developers: Eilis Hannon
+description: In this hands on workshop you will learn how to fit a range of regression models with R, how to interpret the output and the link between regression and other common statistical tools.
+n_sessions: 1
+prereq: Intoduction to R
+url: https://uniexeterrse.github.io/intro-regression-with-r
 
 # Specify that things in the episodes collection should be output.
 collections:
