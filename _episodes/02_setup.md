@@ -24,7 +24,7 @@ library(learnr)
 With these successfully installed we can now install the relevant package with the tutorial for this session.
 
 ```
-devtools::install_github("ejh243/cfrr-r-tutorials")
+devtools::install_github("coding-for-reproducible-research/cfrr-r-tutorials")
 ```
 
 We can now launch the tutorial with this code. Note it need to build the interactive elements so may take a few minutes. The progress of the build can be seen in the **Jobs** tab in the bottom left panel. 
